@@ -6,16 +6,25 @@ L'objectif de notre équipe sera de concevoir un pipeline automatisé qui récup
 
 # Équipe
 
-> **Scrum Master :** Joachim DAVAL
-> **Data Engineer :**
-> **Data Analyst :** 
+**Scrum Master :** Joachim DAVAL
+
+**Data Analyst :** 
+
+**Data Analyst :** 
+
+**Data Engineer :**
+
+**Data Scientist :** 
 
 
 ## Téléchargement de la DataSet
->
+ > Gestion API pour automatisation du téléchargement
 
 ## Nettoyage des données
-
+ > Enrichissement à l'aide de la data fournie par la TABLE OF CONTENT
 ## Traitement des données
-
+ > Creation de nouvelle data (Moyenne age/ moyenne sex / etc)
+## Correction des potentielles erreurs
+ > Entraînement d'un modèle pour corriger les erreurs 
 ## Reporting
+ > Suivi des performances à l'aide d'un tableau de bord. 
